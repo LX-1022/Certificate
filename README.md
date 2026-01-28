@@ -10,9 +10,9 @@ HM University Certificate
 3. Go to this part of the file:
 
     ``` tex
-    \newcommand{\NAME}{YOUR\_NAME\_HERE}
-    \newcommand{\YEAR}{YEAR}
-    \newcommand{\DATE}{DATE}
+    \newcommand{\NAME}{LingXiao Wei}
+    \newcommand{\YEAR}{2026}
+    \newcommand{\DATE}{01/28}
     ```
 
 4. Replace `YOUR\_NAME\_HERE` by your name, `YEAR` by the current year and `DATE` by the current date.
